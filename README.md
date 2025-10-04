@@ -11,17 +11,17 @@ watchlist, melacak progress episode, dan mengatur profil pribadi.
 
 ---
 
-## 📸 Preview
-
-https://aniwatchlist.vercel.app/
-
----
-
 ## ⚠️ Status Project
 
 🚧 **Project ini masih dalam tahap pengembangan.**  
 Masih terdapat beberapa bug dan error yang perlu diperbaiki, serta fitur-fitur yang mungkin belum sepenuhnya berfungsi dengan baik.  
 Kontribusi, saran, dan masukan sangat diterima untuk membantu pengembangan lebih lanjut. 🙌
+
+---
+
+## 📸 Preview
+
+https://aniwatchlist.vercel.app/
 
 ---
 
