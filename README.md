@@ -21,7 +21,7 @@ Kontribusi, saran, dan masukan sangat diterima untuk membantu pengembangan lebih
 
 ## 📸 Preview
 
-https://aniwatchlist.vercel.app/
+[Coming Soon]
 
 ---
 
